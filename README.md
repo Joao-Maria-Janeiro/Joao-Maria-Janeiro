@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ## 💼 Experience
 
-I've been a two times Software Engineering intern @ Google, a Software Engineering intern @ SAP and an AI Research Intern @ Unbabel.
+* Two times Software Engineering intern @ Google 
+* AI Research Intern @ Unbabel
+* Software Engineering intern @ SAP 
 
 ## &#x270d; Blog & Writing
 
