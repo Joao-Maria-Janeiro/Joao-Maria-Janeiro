@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 💼 Experience
 
-* AI Research Intern @ Meta/FAIR
+* Research Scientist Intern @ Meta/FAIR
 * Two times Software Engineering intern @ Google 
 * AI Research Intern @ Unbabel
 * Software Engineering intern @ SAP 
