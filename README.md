@@ -15,25 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on my master thesis in Grammatical Error Correction.
+🔭 I’m currently working at Meta AI, in Paris.
 
-🌱 I’m currently learning more about the field of Natural Language Processing.
+🌱 I’m currently exploring multilingual/multimodal techniques.
 
-📚 I’m currently pursuing a masters in Artificial Intelligence.
+📚 I’m currently pursuing a PhD at Sorbonne University and Meta.
 
 ## 💼 Experience
-
+* PhD Student @ Meta and Sorbonne Uni
 * Research Scientist Intern @ Meta/FAIR
 * Two times Software Engineering intern @ Google 
 * AI Research Intern @ Unbabel
 * Software Engineering intern @ SAP 
 
-## &#x270d; Blog & Writing
+## &#x270d; Publications
 
-I tried some ✍️: [Medium](https://joaomariajaneiro.medium.com) | [Personal](http://joao-maria-janeiro.github.io)
+🎓 [Google Scholar](https://scholar.google.com/citations?user=7LNSCq4AAAAJ&hl=en)
 
-## &#x1f4c8; GitHub Stats
+## 📫 Links and contacts
 
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=Joao-Maria-Janeiro)
+[Personal](http://joao-maria-janeiro.github.io)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Joao-Maria-Janeiro&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Maria-Janeiro&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+✉️ [Email](mailto:joaojaneiro@meta.com)
